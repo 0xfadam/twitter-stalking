@@ -1,0 +1,1 @@
+SLACK_URI="https://hooks.slack.com/services/XXX/XXX/XXX"
